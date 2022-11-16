@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.aud.edu	TRUE	/	FALSE	1999999999	BIGipServerAUDWEB_LIVE.app~AUDWEB_LIVE_pool	rd2o00000000000000000000ffffac110038o443
+www.aud.edu	TRUE	/	FALSE	1999999999	__RequestVerificationToken	w-jSdi-n531H-VNxu9CbstrjBvo8J9pa8pJbG55rM7Lhmv-RVcnFT7iOl5C1T4Qb5szbwzgv111xR5fmQohVj1baH2IapJLvQLyY11hL9mk1
+www.aud.edu	TRUE	/	FALSE	1999999999	TS01789492	01fdb5fade35ad4bb390e36056388e1d89d22ead6e9e7103fc23b6ff3e622f0cdf4ce13f6acdd656a48f22db40315479f23437e0d12286d13c950bf5c22a59a1630f1a3fcd8df0c5d4c92a43dc98f2411bff41647e
+
